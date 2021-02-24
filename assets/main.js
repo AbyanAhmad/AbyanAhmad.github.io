@@ -2,7 +2,7 @@ var typing = document.getElementById('jumbotron-subtitle')
 
 var i = 0;
 var txt = 'A Computer Science Student';
-var speed = 50;
+var speed = 60;
 
 function typeWriter() {
   if (i < txt.length) {
